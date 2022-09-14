@@ -1,0 +1,8 @@
+figure(1)
+plot(Torque)
+figure(2)
+plot(q1vsqd1)
+figure(3)
+plot(q2vsqd2)
+figure(4)
+plot(Error)
