@@ -1,0 +1,10 @@
+Lyapunov-based Non-Linear Tracking Control of a 2-link Robotic Manipulator
+
+• Devised model-based non-linear control design for a 2-link robot using Simulink and simulated Exact Model Knowledge (EMK), Adaptive 
+  and Robust (Sliding-Mode) Non-Linear controllers to track a desired trajectory of the robot.
+  
+• Compared and evaluated the performance of these 3 controllers based on their stability, control effect, and robustness.
+
+Simulink Model files (.slx) attached for EMK, Adaptive and Robust Controllers.
+
+Final Report Attached.
